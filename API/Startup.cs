@@ -1,5 +1,5 @@
 using Core.Interfaces;
-using Infrastucture.Data;
+using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
