@@ -1,3 +1,9 @@
-<h1>Welcome to {{title}}!</h1>
-<i class="fa-brands fa-airbnb"></i>
-<h2>test</h2>
+<app-nav-bar></app-nav-bar>
+<div class="container" style="margin-top: 140px;">
+    <h1>Welcome to {{title}}</h1>
+    <ul>
+        <li class="list-unstyled" *ngFor="let product of products">
+            {{product.name}}
+        </li>
+    </ul>
+</div>
