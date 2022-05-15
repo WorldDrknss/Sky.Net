@@ -1,3 +1,3 @@
 # E-Commerce
 
-Built upon .NET, Angular, and Bootstrap
+Built upon ASP.NET, Angular, Bootstrap, and Stripe for Credit Care Processing
