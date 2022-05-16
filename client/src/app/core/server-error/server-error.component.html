@@ -1,3 +1,17 @@
 <div class="container mt-5">
-  <h1>Internal Server Error</h1>
+  <h4>Server Internal Error - Refreshing the page clears the exception</h4>
+  <ng-container *ngIf="e">
+    <h5 class="text-danger">{{e.message}}</h5>
+    <p class="font-weight-bold">Note: if you are seeing this, this is not a client side error.</p>
+    <p>What's next?</p>
+    <ol>
+      <li>Open Chrom Dev Tools</li>
+      <li>Inspect the Network Tab</li>
+      <li>Check the failing request</li>
+      <li>Examin the request URL. Is it correct?</li>
+      <li>Reproduce Error in Postman</li>
+    </ol>
+    <p>Following is the stack trace - This is where your investigation begins.</p>
+    <code class="mt-5" style="background-color: whitesmoke;">{{e.details}}</code>
+  </ng-container>
 </div>
