@@ -24,7 +24,7 @@ namespace API
             services.AddApplicationServices();
             services.AddSwaggerDocumentation();
             services.AddDbContext<StoreContext>(x => x.UseSqlite(_config.GetConnectionString("DefaultConnection")));
-            services.AddSingleton<ConnectionMultiplexer>(c => {
+            services.AddSingleton<IConnectionMultiplexer>(c => {
                 var configuration = ConfigurationOptions.Parse(_config.GetConnectionString("redis"), true);
                 return ConnectionMultiplexer.Connect(configuration);
             });
