@@ -17,6 +17,11 @@ label.xng-breadcrumb-trail {
   color: orange;
 }
 
-xng-breadcrumb-separator {
+.xng-breadcrumb-separator {
   padding: 0 0;
+  color: #343a40;
+}
+
+.xng-breadcrumb-link, a.xng-breadcrumb-link {
+  color: #343a40;
 }
