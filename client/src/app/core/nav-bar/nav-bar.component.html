@@ -1,4 +1,4 @@
-<div class="d-flex flex-column flex-md-row align-items-center justify-content-between p-3 px-md-4 mb-3 border-bottom border-dark fixed-top" style="background-color: #0d0d0e;">
+<div class="d-flex flex-column flex-md-row align-items-center justify-content-between bg-light p-3 px-md-4 mb-3 border-bottom border-dark fixed-top">
     <img class="logo" src="/assets/images/logo.png" style="max-height: 70px;" alt="logo" routerLink="/">
     <nav class="me-3 my-md-0 mr-md-3 text-uppercase" style="font-size: larger;">
         <a class="me-3 py-2" [routerLink]="['/']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Home</a>
@@ -6,9 +6,9 @@
         <a class="me-3 py-2" routerLink="/test-error" routerLinkActive="active">Errors</a>
     </nav>
     <div class="d-flex align-items-center">
-        <a class="position-relative">
+        <a routerLink="/basket" class="position-relative">
             <i class="fa fa-shopping-cart fa-2x me-3 text-dark"></i>
-            <div class="cart-no">5</div>
+            <div *ngIf="(basket$ | async) as basket" class="cart-no">{{basket.items.length}}</div>
         </a>
         <a class="btn btn-outline-secondary me-3" href="#">Login</a>
         <a class="btn btn-outline-secondary me-3" href="#">Sign up</a>

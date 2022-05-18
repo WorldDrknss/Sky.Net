@@ -1,0 +1,74 @@
+<div class="container mt-5">
+  <div *ngIf="(basket$ | async) === null">
+    <P>You're shopping cart is currently empty!</P>
+  </div>
+  <div *ngIf="basket$ | async">
+    <div class="pb-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 py-3 mb-1">
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-light">
+                <thead>
+                  <tr>
+                    <th scope="col">
+                      <div class="p-2 px-3 text-uppercase">Product</div>
+                    </th>
+                    <th class="text-center" scope="col">
+                      <div class="p-2 px-3 text-uppercase">Price</div>
+                    </th>
+                    <th class="text-center" scope="col">
+                      <div class="p-2 px-3 text-uppercase">quantity</div>
+                    </th>
+                    <th class="text-center" scope="col">
+                      <div class="p-2 px-3 text-uppercase">Total</div>
+                    </th>
+                    <th class="text-center" scope="col">
+                      <div class="p-2 px-3 text-uppercase">Remove</div>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of (basket$ | async).items">
+                    <th scope="row">
+                      <div class="p-2">
+                        <img class="img-fluid" style="max-height: 50px" src="{{item.pictureUrl}}" alt="{{item.productName}}">
+                        <div class="ms-3 d-inline-block align-middle">
+                          <h5 class="mb-0">
+                            <a class="text-dark" routerLink="/shop/{{item.id}}">{{item.productName}}</a>
+                          </h5>
+                          <span class="text-muted font-weight-normal font-italic d-block">Type: {{item.type}}</span>
+                        </div>
+                      </div>
+                    </th>
+                    <td class="align-middle text-center">{{item.price | currency}}</td>
+                    <td class="align-middle text-center">
+                      <div class="d-flex-align-items-center">
+                        <i class="fa fa-minus-circle text-warning me-2" style="cursor: pointer;"></i>
+                        <span class="font-weight-bold">{{item.quantity}}</span>
+                        <i class="fa fa-plus-circle text-warning mx-2" style="cursor: pointer;"></i>
+                      </div>
+                    </td>
+                    <td class="align-middle text-center">{{item.price * item.quantity | currency}}</td>
+                    <td class="align-middle text-center">
+                      <a class="text-danger" style="cursor: pointer">
+                        <i class="fa fa-trash" style="font-size: 2em"></i>
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6 offset-6">
+            <app-order-totals></app-order-totals>
+            <a routerLink="/checkout" class="btn btn-outline-primary w-100">Checkout</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
