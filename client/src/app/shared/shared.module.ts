@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { PaginationModule } from 'ngx-bootstrap/pagination';
 import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { PagingHeaderComponent } from './components/paging-header/paging-header.component';
@@ -10,7 +10,7 @@ import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { TextInputsComponent } from './components/text-inputs/text-inputs.component';
 import { CdkStepperModule } from '@angular/cdk/stepper';
 import { StepperComponent } from './components/stepper/stepper.component';
-import { BasketSummaryComponent } from './basket-summary/basket-summary.component'
+import { BasketSummaryComponent } from './components/basket-summary/basket-summary.component'
 import { RouterModule } from '@angular/router';
 
 
@@ -38,6 +38,7 @@ import { RouterModule } from '@angular/router';
     PagerComponent,
     CarouselModule,
     OrderTotalsComponent,
+    FormsModule,
     ReactiveFormsModule,
     BsDropdownModule,
     TextInputsComponent,
