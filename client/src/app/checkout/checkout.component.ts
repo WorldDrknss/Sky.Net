@@ -20,6 +20,7 @@ export class CheckoutComponent implements OnInit {
   ngOnInit(): void {
     this.createCheckoutForm();
     this.getAddressFormValues();
+    this.getDeliveryMethodValue();
     this.basketTotals$ = this.basketService.basketTotal$;
   }
 
@@ -36,7 +37,7 @@ export class CheckoutComponent implements OnInit {
       deliveryForm: this.fb.group({
         deliveryMethod: [null, Validators.required]
       }),
-      paymenForm: this.fb.group({
+      paymentForm: this.fb.group({
         nameOnCard: [null, Validators.required]
       })
     });
@@ -52,6 +53,13 @@ export class CheckoutComponent implements OnInit {
       error: (e: any) => { console.log(e) },
       complete: () => { console.log('completed') }
     });
+  }
+
+  getDeliveryMethodValue(){
+    const basket = this.basketService.getCurrentBasketValue();
+    if(basket.deliveryMethodId !== null){
+      this.checkoutForm.get('deliveryForm').get('deliveryMethod').patchValue(basket.deliveryMethodId.toString());
+    }
   }
 
 }
