@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://labs.xtechnology.org/cshowalter/SkyNet">
     <img src="logo.png" alt="Logo" height="100">
   </a>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://labs.xtechnology.org/cshowalter/SkyNet)
 Proof of concept e-commerce store using Angular, .Net Core and Stripe for payment processing
 
 * .Net Core
