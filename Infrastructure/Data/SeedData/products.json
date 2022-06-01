@@ -1,51 +1,51 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
+    "Name": "ABS Gladiator Gaming PC",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "Price": 1749,
+    "PictureUrl": "images/products/ABS-Gladiator-Gaming-PC-1749.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
+    "Name": "CyberpowerPC Gaming Desktop Gamer Master",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "Price": 1699,
+    "PictureUrl": "images/products/CyberpowerPC-Gaming-Desktop-Gamer-Master-1699.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 1
+    "ProductBrandId": 2
   },
   {
-    "Name": "Core Board Speed Rush 3",
+    "Name": "Skytech Archangel 3.0 Gaming Computer PC Desktop",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
+    "Price": 1199,
+    "PictureUrl": "images/products/Skytech-Archangel-3.0-Gaming-Computer-PC-Desktop-1199.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 2
+    "ProductBrandId": 3
   },
   {
-    "Name": "Net Core Super Board",
+    "Name": "Velztorm Nix Custom Built Gaming Desktop PC",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "Price": 1449,
+    "PictureUrl": "images/products/Velztorm-Nix-Custom-Built-Gaming-Desktop-PC-1449.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 4
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "Name": "ABS Legend Gaming PC - Intel i9 12900K",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 4149,
+    "PictureUrl": "images/products/ABS-Legend-Gaming-PC-Intel-i9-12900K.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 5
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Skytech Chronos Gaming PC Desktop",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 1599,
+    "PictureUrl": "images/products/Skytech-Chronos-Gaming-PC-Desktop.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
   },
   {
     "Name": "Core Blue Hat",

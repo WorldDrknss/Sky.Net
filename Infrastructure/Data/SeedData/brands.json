@@ -1,26 +1,26 @@
 [
   {
     "Id": 1,
-    "Name": "Angular"
+    "Name": "ABS"
   },
   {
     "Id": 2,
-    "Name": "NetCore"
+    "Name": "Cyberpower"
   },
   {
     "Id": 3,
-    "Name": "VS Code"
+    "Name": "Skytech"
   },
   {
     "Id": 4,
-    "Name": "React"
+    "Name": "Velztorm"
   },
   {
     "Id": 5,
-    "Name": "Typescript"
+    "Name": "Bose"
   },
   {
     "Id": 6,
-    "Name": "Redis"
+    "Name": "Beats"
   }
 ]
