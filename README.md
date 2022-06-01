@@ -76,6 +76,7 @@ Proof of concept e-commerce store using Angular, .Net Core and Stripe for paymen
 * [NodeJS](https://nodejs.org/)
 * [Angular](https://angular.io/)
 * [Stripe](https://stripe.com)
+* [Docker](https://www.docker.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,19 +106,23 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://labs.xtechnology.org/cshowalter/SkyNet.git
    ```
-2. Install NPM packages
+2. Setup Docker Containers: Configurations can be changed in `docker-compose.yml`
+    ```sh
+    docker compose
+    ```
+3. Install NPM packages
    ```sh
    cd client
    npm install
    ng serve
    ```
-3. Restore .NET
+4. Restore .NET
    ```sh
    cd API
    dotnet restore -f
    dotnet run
    ```
-4. Add the following in API / `appsettings.development.json`
+5. Add the following in API / `appsettings.development.json`
    ```js
    "Token": {
        "Key": "",
@@ -125,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
    },
    "ApiUrl": ""
    ```
-5. Add Stripe Information to API / `appsettings.json`
+6. Add Stripe Information to API / `appsettings.json`
    ```js
    "StripeSettings": {
        "PublishableKey": "",
