@@ -48,99 +48,99 @@
     "ProductBrandId": 3
   },
   {
-    "Name": "Core Blue Hat",
+    "Name": "Bose QuietComfort 35 Wireless Noise Cancelling Headphones",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
+    "Price": 195.99,
+    "PictureUrl": "images/products/Bose-QuietComfort-35-Wireless-Noise-Cancelling-Headphones-19599.jpg",
     "ProductTypeId": 2,
-    "ProductBrandId": 2
+    "ProductBrandId": 5
   },
   {
-    "Name": "Green React Woolen Hat",
+    "Name": "Beats Solo Pro Wireless Noise Cancelling On-Ear Headphones",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
+    "Price": 249.95,
+    "PictureUrl": "images/products/Beats-Solo-Pro-Wireless-Noise-Cancelling-On-Ear-Headphones-24995.jpg",
     "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
+    "Name": "Beats by Dr. Dre - Powerbeats Pro",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 179.99,
+    "PictureUrl": "images/products/Beats-by-Dr. Dre-Powerbeats-Pro-17999.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
   },
   {
-    "Name": "Core Purple Boots",
+    "Name": "PS5 Bundle",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 820,
+    "PictureUrl": "images/products/PS5-Bundle-820.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Microsoft Xbox Series X",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
+    "Price": 598,
+    "PictureUrl": "images/products/Microsoft-Xbox-Series-X.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
   },
   {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
+    "Name": "Nintendo Switch (OLED model) w/ White Joy-Con",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 367.51,
+    "PictureUrl": "images/products/Nintendo-Switch-OLED-model-w-White Joy-Con-367.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 11
   },
   {
-    "Name": "Angular Blue Boots",
+    "Name": "Nintendo Switch - Neon Blue/Neon Red Joy-Con + Mario Kart 8 Deluxe",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 349.99,
+    "PictureUrl": "images/products/Nintendo-Switch-Neon-Blue-Neon-Red-Joy-Con-Mario-Kart-8-Deluxe.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "DJI Mavic Air 2 Fly More Combo",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
+    "Price": 789,
+    "PictureUrl": "images/products/DJI-Mavic-Air-2-Fly-More-Combo-789.jpg",
     "ProductTypeId": 3,
-    "ProductBrandId": 1
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Holy Stone HS175 GPS Drone with 2K UHD Camera",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 139.99,
+    "PictureUrl": "images/products/Holy-Stone-HS175-GPS-Drone-with-2K-UHD-Camera-139.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Holy Stone HS450 Mini Drones",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 39.99,
+    "PictureUrl": "images/products/Holy-Stone-HS450-Mini-Drone-3999.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "DJI FPV Combo - First-Person View Drone UAV Quadcopter",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 999,
+    "PictureUrl": "images/products/DJI-FPV-Combo-First-Person-View-Drone-UAV-Quadcopter-999.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "DJI Mavic 3 Fly More Combo",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 2849,
+    "PictureUrl": "images/products/DJI-Mavic-3-Fly-More-Combo-2849.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
   }
 ]

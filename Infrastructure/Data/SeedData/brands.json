@@ -22,5 +22,25 @@
   {
     "Id": 6,
     "Name": "Beats"
+  },
+  {
+    "Id": 7,
+    "Name": "DJI"
+  },
+  {
+    "Id": 8,
+    "Name": "Holy Stone"
+  },
+  {
+    "Id": 9,
+    "Name": "Playstation"
+  },
+  {
+    "Id": 10,
+    "Name": "Xbox"
+  },
+  {
+    "Id": 11,
+    "Name": "Nintendo"
   }
 ]
