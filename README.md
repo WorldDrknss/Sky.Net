@@ -165,6 +165,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
+Website - [Tech Nuggets](https://technuggets.io)
+
+Forums - [Tech Nugget Forums](https://forums.technuggets.io)
+
 Twitter - [@technuggets_io](https://twitter.com/technuggets_io)
 
 Linkedin - [Charles Showalter](https://linkedin.com/in/charles-showalter)
