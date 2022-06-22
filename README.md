@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://labs.xtechnology.org/cshowalter/SkyNet">
+  <a href="https://labs.technuggets.io/cshowalter/SkyNet">
     <img src="logo.png" alt="Logo" height="100">
   </a>
 
@@ -13,9 +13,9 @@
     Proof of concept e-commerce store using Angular, .Net Core and Stripe for payment processing
     <br />
     <br />
-    <a href="https://labs.xtechnology.org/cshowalter/SkyNet/issues">Report Bug</a>
+    <a href="https://labs.technuggets.io/cshowalter/SkyNet/issues">Report Bug</a>
     ·
-    <a href="https://labs.xtechnology.org/cshowalter/SkyNet/issues">Request Feature</a>
+    <a href="https://labs.technuggets.io/cshowalter/SkyNet/issues">Request Feature</a>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://labs.xtechnology.org/cshowalter/SkyNet)
+[![Product Name Screen Shot][product-screenshot]](https://labs.technuggets.io/cshowalter/SkyNet)
 Proof of concept e-commerce store using Angular, .Net Core and Stripe for payment processing
 
 * .Net Core
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://labs.xtechnology.org/cshowalter/SkyNet.git
+   git clone https://labs.technuggets.io/cshowalter/SkyNet.git
    ```
 2. Setup Docker Containers: Configurations can be changed in `docker-compose.yml`
     ```sh
@@ -165,15 +165,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@x7echnology](https://twitter.com/x7echnology)
+Twitter - [@x7echnology](https://twitter.com/technuggets_io)
 
 Linkedin - [Charles Showalter](https://linkedin.com/in/charles-showalter)
 
-Instagram - [@x7echnology](https://twitter.com/x7echnology)
+Instagram - [@x7echnology](https://twitter.com/technuggets.io)
 
-Facebook - [@x7echnology](https://facebook.com/x7echnology)
+Facebook - [@x7echnology](https://facebook.com/technuggets.io)
 
-Project Link: [https://labs.xtechnology.org/cshowalter/SkyNet/](https://labs.xtechnology.org/cshowalter/SkyNet/)
+Project Link: [https://labs.technuggets.io/cshowalter/SkyNet/](https://labs.technuggets.io/cshowalter/SkyNet/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
