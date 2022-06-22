@@ -165,13 +165,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@x7echnology](https://twitter.com/technuggets_io)
+Twitter - [@technuggets_io](https://twitter.com/technuggets_io)
 
 Linkedin - [Charles Showalter](https://linkedin.com/in/charles-showalter)
 
-Instagram - [@x7echnology](https://twitter.com/technuggets.io)
+Instagram - [@technuggets.io](https://twitter.com/technuggets.io)
 
-Facebook - [@x7echnology](https://facebook.com/technuggets.io)
+Facebook - [@technuggets.io](https://facebook.com/technuggets.io)
 
 Project Link: [https://labs.technuggets.io/cshowalter/SkyNet/](https://labs.technuggets.io/cshowalter/SkyNet/)
 
