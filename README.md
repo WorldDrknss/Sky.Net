@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://labs.technuggets.io/cshowalter/SkyNet">
+  <a href="https://lab.skynetinc.tech/WorldDrknss/Sky.Net">
     <img src="logo.png" alt="Logo" height="100">
   </a>
 
@@ -13,9 +13,9 @@
     Proof of concept e-commerce store using Angular, .Net Core and Stripe for payment processing
     <br />
     <br />
-    <a href="https://labs.technuggets.io/cshowalter/SkyNet/issues">Report Bug</a>
+    <a href="https://lab.skynetinc.tech/WorldDrknss/Sky.Net/issues">Report Bug</a>
     ·
-    <a href="https://labs.technuggets.io/cshowalter/SkyNet/issues">Request Feature</a>
+    <a href="https://lab.skynetinc.tech/WorldDrknss/Sky.Net/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,9 +47,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://labs.technuggets.io/cshowalter/SkyNet)
+[![Product Name Screen Shot][product-screenshot]](https://lab.skynetinc.tech/WorldDrknss/Sky.Net)
 Proof of concept e-commerce store using Angular, .Net Core and Stripe for payment processing
 
 * .Net Core
@@ -83,7 +83,7 @@ Proof of concept e-commerce store using Angular, .Net Core and Stripe for paymen
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://labs.technuggets.io/cshowalter/SkyNet.git
+   git clone https://lab.skynetinc.tech/WorldDrknss/Sky.Net.git
    ```
 2. Setup Docker Containers: Configurations can be changed in `docker-compose.yml`
     ```sh
@@ -154,7 +154,7 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -163,29 +163,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+# Contact:
 
-Website - [Tech Nuggets](https://technuggets.io)
-
-Forums - [Tech Nugget Forums](https://forums.technuggets.io)
-
-Twitter - [@technuggets_io](https://twitter.com/technuggets_io)
+Twitter - [@skynetinctech](https://twitter.com/skynetinctech)
 
 Linkedin - [Charles Showalter](https://linkedin.com/in/charles-showalter)
 
-Instagram - [@technuggets.io](https://twitter.com/technuggets.io)
+Instagram - [@skynetinc.tech](https://twitter.com/skynetinc.tech)
 
-Facebook - [@technuggets.io](https://facebook.com/technuggets.io)
+Facebook - [@skynetinctech](https://facebook.com/skynetinctech)
 
-Project Link: [https://labs.technuggets.io/cshowalter/SkyNet/](https://labs.technuggets.io/cshowalter/SkyNet/)
+Project Link: [https://lab.skynetinc.tech/WorldDrknss/Guide-to-AlmaLinux/](https://lab.skynetinc.tech/WorldDrknss/Guide-to-AlmaLinux/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[twitter-shield]: https://img.shields.io/twitter/follow/x7echnology?style=for-the-badge
-[twitter-url]: https://twitter.com/x7echnology
+[twitter-shield]: https://img.shields.io/twitter/follow/skynetinctech?style=for-the-badge
+[twitter-url]: https://twitter.com/skynetinctech
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/company/skynetinc
 [product-screenshot]: Screenshot.png
